@@ -1,0 +1,28 @@
+
+this is an incomplete game based, on, world, war2. 
+
+disclaimer.
+
+this is a game which is, not based, on any, real, incidents. 
+
+
+
+
+instructions
+
+1. press right arrow key. to, move, right.
+2. press left arrow, key. to, move,left.
+3. press space key. to shoot.
+4. when the helicopter appers you, have to go nearby it
+   and press 'f' key to enter,. note this feature is, not, completed, yet.
+
+5. press up, key, to, jump.
+			
+
+
+
+
+
+
+
+
